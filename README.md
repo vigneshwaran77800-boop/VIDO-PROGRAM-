@@ -28,3 +28,12 @@ The second command needs GCC or Clang installed.
 - `.` statement terminator
 
 Many VIDO features already designed (arrays, `mux`, `bank`, `multibank`, `alias`, `ulias`, `rename`, `random`, `abds()`, `length()`, `whole()`, etc.) are intentionally not implemented yet. They should be added one-by-one after the core parser is stabilized.
+# Vido
+
+A next-generation programming language for mathematical computation,
+automation, and AI-assisted programming.
+
+## Project Information
+
+- **Created by:** VOID or VIGNESHWARAN 
+- **Owner:** VIGNESHWARAN
