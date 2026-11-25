@@ -1,5 +1,5 @@
 # VIDO Basic Compiler — v0.1
-
+google-site-verification: google69f72e37109a3388.html
 This is the first working compiler scaffold for the VIDO language.
 
 ## Pipeline
